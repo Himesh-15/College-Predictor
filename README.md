@@ -8,6 +8,6 @@
 - **Published in:** IEEE Xplore
 - **DOI:** 10.1109/ICETET-SIP58143.2023.10151595
 - **Link to Paper:** <a href="https://ieeexplore.ieee.org/document/10151595">https://ieeexplore.ieee.org/document/10151595 </a>
-- 
+  <br>
 <img src="Screenshots\College-Predictor_1.png" width="80%" height="60%">
 <img src="Screenshots\College-Predictor_2.png" width="80%" height="60%">
