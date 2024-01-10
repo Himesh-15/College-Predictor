@@ -1,3 +1,4 @@
 # College-Predictor
-"Machine Learning Based Prediction Model For College Admission"
-The system looks at the academic merits, background, and criteria for college admission of the student. It then predicts whether or not a student will attend a university or college. For precise expectations, we have prepared an ML model to give results.
+### A Machine-Learning-based Prediction Model for College Admission is an algorithmic model that utilizes machine-learning techniques to predict the probability of admission of a college student to a particular college or university based on various factors such as Rank, Category, Gender, Quota, etc. The model is designed to improve accuracy and efficiency in the college admission process.
+<img src="Screenshots\College-Predictor_1.png" width="80%" height="60%">
+<img src="Screenshots\College-Predictor_2.png" width="80%" height="60%">
